@@ -1,5 +1,3 @@
-n =  [1, 1, 2, 2, 2, 3,3,4,3]
-
 function countDuplicate(arr) {
     let count = 0
 
@@ -14,4 +12,4 @@ function countDuplicate(arr) {
     return count
 }
 
-countDuplicate(n)
+/* countDuplicate([1, 1, 2, 2, 2, 3,3,4,3]) */
